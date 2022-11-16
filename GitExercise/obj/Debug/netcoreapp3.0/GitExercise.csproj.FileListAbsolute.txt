@@ -1,0 +1,14 @@
+C:\Users\12d\Desktop\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.exe
+C:\Users\12d\Desktop\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.deps.json
+C:\Users\12d\Desktop\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.runtimeconfig.json
+C:\Users\12d\Desktop\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.runtimeconfig.dev.json
+C:\Users\12d\Desktop\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.dll
+C:\Users\12d\Desktop\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.pdb
+C:\Users\12d\Desktop\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.csproj.AssemblyReference.cache
+C:\Users\12d\Desktop\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12d\Desktop\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.AssemblyInfoInputs.cache
+C:\Users\12d\Desktop\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.AssemblyInfo.cs
+C:\Users\12d\Desktop\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.csproj.CoreCompileInputs.cache
+C:\Users\12d\Desktop\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.dll
+C:\Users\12d\Desktop\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.pdb
+C:\Users\12d\Desktop\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.genruntimeconfig.cache
